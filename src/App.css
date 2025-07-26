@@ -22,6 +22,12 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  .container .input-group {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+  }
 }
 
 .App-link {
