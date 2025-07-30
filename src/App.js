@@ -33,6 +33,11 @@ function App() {
       <header className="App-header">
         <div className="container">
           <h1>AI Story Generator</h1>
+          <p className="description">
+  Create unique short stories instantly! Just enter a main character, a story setting, and a theme — our AI will generate a one-of-a-kind story based on your inputs.
+</p>
+
+
           <div className="input-group">
             <input
               type="text"
